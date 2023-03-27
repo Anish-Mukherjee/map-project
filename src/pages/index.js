@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import MarkersMap from "../components/MarkersMap";
 
 export default function Home() {
